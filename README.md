@@ -4,11 +4,11 @@
 ---
 1. Feynman Writing Prompts - Write out explanations of the following concepts like you are explaining it to a 12 year old.  Doing this will help you quickly discover any holes in your understanding.  Ask your questions on Slack.
 		
-	* for loop
-	* && || !
-	* Array
-	* git
-	* GitHub
+	* for loop -- capable of running the same code repeatedly, given a start, a stop, and step of iteration.
+	* && || ! -- "and": both items must appear, "either": one or the other item must appear to be true, 
+	* Array -- JavaScript variable that is capable of holding multiple values
+	* git -- version control tracking system for when multiple people are working on the same project
+	* GitHub -- a web-based cloud repository of stored data, useful for group projects and tracking contributions.
 
 
 2. Install git.  https://git-scm.com/downloads
